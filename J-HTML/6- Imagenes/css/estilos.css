@@ -1,0 +1,19 @@
+.tucan{
+    width: 20%;
+    text-align: left;
+    margin-left: 80px;
+}
+.parrafo{
+    text-align: justify;
+}
+.contenedor{
+    display: flex;
+}
+
+.contenedor >img{ 
+    width: 40%;
+    text-align: left;
+}
+.contenedor >p{ 
+    margin-left: 15px;
+}
