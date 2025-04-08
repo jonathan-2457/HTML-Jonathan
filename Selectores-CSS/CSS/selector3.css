@@ -1,0 +1,12 @@
+/*Selector de 2 clases*/
+.texto{ background-color: coral;
+}
+ .texto.azul.mayusculas{ 
+    color: blue; 
+   text-align: center;
+   font-size: 15px;
+ } 
+
+
+
+
