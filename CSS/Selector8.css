@@ -1,0 +1,11 @@
+/*Primer nivel de hijos*/
+.admin > div {
+background-color: darkslategray;
+border: 2px solid rgb(153, 12, 12);
+text-align: center;
+margin: 50px;
+}
+
+
+
+

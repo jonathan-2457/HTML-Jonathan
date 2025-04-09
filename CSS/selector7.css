@@ -1,0 +1,7 @@
+/*2 Elementos*/
+.texto,.oferta{ 
+    border: 10px solid red;
+    border-radius: 20%;
+    padding: 20px;
+
+}
