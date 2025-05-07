@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+background-color: g;
+}
+
+body{
+    font-family: 'Arial';
+}
+
+.nav{
+    background: goldenrod;
+height: 70%;
+padding: 0 50px;
+text-align: center;
+top: 0;
+width: 100%;
+}
+
+.enlaces{
+    color: #fff;
+text-decoration: none;
+line-height: 70px;
+padding: 0 20px;
+display: inline-block;
+}
+.enlaces:hover{
+    background-color: brown;
+    color: burlywood;
+}
+
+
