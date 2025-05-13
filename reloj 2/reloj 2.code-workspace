@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../temporizador 1"
+		},
+		{
+			"path": "../temporizador 2"
+		},
+		{
+			"path": "../Reloj 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "reloj 2"
+	}
+}

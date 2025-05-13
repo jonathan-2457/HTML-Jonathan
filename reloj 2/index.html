@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reloj-2</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body onload=" comenzarReloj()">
+    
+    <h1 id="textoAlarma">00:00:00</h1> 
+    <input type="number" id="tiempo">
+
+    <button onclick="verTiempo()">ver</button>
+
+    <audio id="audioAlarma">
+    <source src="Audio/alarma.mp3" type="audio/mpeg">
+    Sonido no habilitado
+    </audio>
+    
+    <script src="logica.js"></script>
+</body>
+</html>
